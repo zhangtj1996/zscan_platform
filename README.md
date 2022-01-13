@@ -1,3 +1,3 @@
 # zscan_platform
-using pyserial to collect data from POWER MEASURE and plot
+Using **pyserial** to collect data from POWER MEASURE and plot.
 This project is based on DHC GCD0301m stepper motor and Starcom laser measure(dual mode).
